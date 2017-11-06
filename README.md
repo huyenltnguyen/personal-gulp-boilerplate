@@ -11,9 +11,9 @@ Node Package | Description
 `vinyl-source-stream` | Use conventional text streams with Gulp
 `babelify` | Transpile newer JS into ES5
 `gulp-uglify` | Minify JS
--- Image |
+-- **Image** |
 `gulp-imagemin` | Optimize image
--- Mics |
+-- **Mics** |
 `gulp-livereload` | Reloads the page whenever there is a change in any watched file
 `gulp-sourcemaps` | Map output in the compiled file back to its source file
 
