@@ -16,7 +16,7 @@ Node Package | Description
 -- Mics |
 `gulp-livereload` | Reloads the page whenever there is a change in any watched file
 `gulp-sourcemaps` | Map output in the compiled file back to its source file
-
+`del` | Delete files and folders
 
 ### Installation:
 ```
